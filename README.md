@@ -54,7 +54,7 @@ After cleaning, exploratory analysis was performed using SQL aggregation and gro
 * Funding stage analysis
 
 All analysis queries are available in:
-`sql/02_analysis.sql`
+`sql/02_exploratory_data_analysis.sql`
 
 ## Key Insights
 
@@ -83,5 +83,3 @@ This project demonstrates the ability to:
 ## Author
 
 **Bett Codes**
-Actuarial Science 
-Dedan Kimathi University of Technology
